@@ -6,7 +6,8 @@ REG NO:24013065
 
 **AIM:**
 
-To 
+To implement D flipflop using verilog and validating their functionality using their functional tables
+ 
 
 
 **SOFTWARE REQUIRED:**
@@ -50,3 +51,4 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 
 **RESULTS**
+D flipflop using verilog and validating their functionality using their functional tables is verified
